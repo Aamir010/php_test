@@ -1,0 +1,11 @@
+{
+  "General": {
+            "Name": "aamir010@hotmail.com",
+            "Project": "php_proj"
+  },
+  "Package": [
+            "apache2",
+            "curl",
+            "php5"
+  ]
+}
