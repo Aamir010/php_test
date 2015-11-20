@@ -6,6 +6,7 @@
   "Package": [
             "apache2",
             "curl",
+            "wget",
             "php5"
   ]
 }
