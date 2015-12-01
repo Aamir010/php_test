@@ -1,2 +1,2 @@
-echo "Hello !!!"
+echo "Test PUT with CURL"
  
