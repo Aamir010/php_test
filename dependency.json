@@ -1,7 +1,7 @@
 {
   "General": {
             "Name": "aamir010@hotmail.com",
-            "Project": "php_proj"
+            "Project": "php-proj"
   },
   "Package": [
             "apache2",
