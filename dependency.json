@@ -1,12 +1,16 @@
 {
-  "General": {
-            "Name": "aamir010@hotmail.com",
-            "Project": "php-proj"
-  },
-  "Package": [
-            "apache2",
-            "curl",
-            "wget",
-            "php5"
-  ]
+   "General":{
+      "Name":"aamir010@hotmail.com",
+      "Project":"php-proj"
+   },
+   "Package":[
+      "apache2",
+      "curl",
+      "wget",
+      "php5"
+   ],
+   "Resource":{
+      "cpus":"0.5",
+      "mem":"512.0"
+   }
 }
