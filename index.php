@@ -1,2 +1,2 @@
-echo " new TEST DEPLOYMENT"
+echo " wrappe up"
  
